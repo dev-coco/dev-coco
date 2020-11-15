@@ -9,7 +9,6 @@
 ---
 ## 📊 Visitor count
 <p align="center">
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/dev-coco/count.svg" />
 </p>
 
